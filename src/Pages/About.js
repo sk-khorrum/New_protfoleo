@@ -13,7 +13,7 @@ const About = () => {
   return (
     <>
     <Helmet>
-        <title>About Me | Portfolio - Ujjwal</title>
+        <title>About Me | Portfolio - Sk Khorrum</title>
     </Helmet>
     
       <div>
