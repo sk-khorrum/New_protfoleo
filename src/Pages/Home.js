@@ -14,7 +14,7 @@ const About = () => {
   return (
     <>
     <Helmet>
-        <title>Home | Portfolio - Ujjwal</title>
+        <title>Home | Portfolio sk khorrum </title>
     </Helmet>
     
       <div>
