@@ -159,23 +159,23 @@ useEffect(() => {
   const contactInfoData = [
     {
         icon: <i className="fa-solid fa-envelopes-bulk"></i>,
-        description: 'ujjwalsaini0007@gmail.com',
-        href: 'mailto:ujjwalsaini0007@gmail.com'
+        description: 'skkhorrrum@yahoo.com',
+        href: 'mailto:skkhorrrum@yahoo.com'
     },
     {
         icon: <i className="fa-solid fa-mobile"></i>,
-        description: '+91-9717-899079',
-        href: 'tel:+919717899079'
+        description: '+8801314089563',
+        href: 'tel:+8801314089563'
     },
     {
         icon: <i className="fa-brands fa-linkedin"></i>,
         description: 'My Profile',
-        href: 'https://www.linkedin.com/in/ujjwalsaini07'
+        href: 'https://www.linkedin.com/in/sk_khorrum'
     },
     {
         icon: <i className="fa-brands fa-github"></i>,
         description: 'My Profile',
-        href: 'https://github.com/UjjwalSaini07'
+        href: 'https://github.com/sk_khorrum'
     }
   ];
 
