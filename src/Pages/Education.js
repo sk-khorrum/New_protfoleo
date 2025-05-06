@@ -122,28 +122,29 @@ const EducationStyle = `
 
 const educationData = [
   {
-    date: "2022 - Present",
-    cname: "Guru Gobind Singh Indraprastha University, Delhi",
-    title: "Bachelors of Technology",
+    date: "2022 - Ssc",
+    cname: "Vobanipur technical institute",
+    title: "Genaral Elictical works",
     iconBg: "#fff",
     icon: college,
     points: [
-      "Board: GGSIPU",
+      "Board: Dhaka",
       "Specialisation: Information & Technology",
-      "CGPA : 9.34 (Upto Sem 4)",
+      "CGPA : 4:93 (Upto 5)",
       "Member of the College's coding club and tech societies.",
       "Participated in hackathons and coding competitions.",
-      "Completed multiple projects with excellence.",
+      "Completed multiple projects with 5 ellence.",
     ],
   },
   {
-    date: "April 2019 - March 2021",
-    cname: "S.B Mills Senior Secondary School, Delhi",
-    title: "High School, 11-12th",
+    date: "April 2019",
+    cname: "Chalitadanga BBN ML Highschol",
+    title: "High School, 6-8th",
     iconBg: "#fff",
     icon: school12,
     points: [
-      "Board: Central Board of Secondary Education, New Delhi",
+           "CGPA : 4:78 (Upto 5)",
+      "Board: Central Board of Secondary Education, Rajshahi",
       "Specialisation: Non-Medical - PCM",
       "Percentage - 85.4%",
       "Completed various projects with excellence.",
@@ -151,13 +152,14 @@ const educationData = [
     ],
   },
   {
-    date: "April 2014 - March 2019",
-    cname: "S.M Arya Public School, Delhi",
-    title: "Junior School, 6-10th",
+    date: "April 2016 ",
+    cname: "Chalitadanga Gov Primary School",
+    title: "Primary School, 1-5th",
     iconBg: "#fff",
     icon: school10,
     points: [
-      "Board: Central Board of Secondary Education, New Delhi",
+           "CGPA : 4:87 (Upto 5)",
+      "Board: Rajshahi",
       "Percentage - 80%",
       "Science Olympiad Achiever",
       "Taking Part in Many Competitions (Educational/Cultural)",
@@ -166,16 +168,13 @@ const educationData = [
     ],
   },
   {
-    date: "April 2006 - March 2014",
-    cname: "Blooming Buds Public School, Delhi",
-    title: "Schooling till 5th",
+    date: "April 20011",
+    cname: "Brac school",
+    title: "Play lavel",
     iconBg: "#fff",
     icon: school5,
     points: [
-      "Completed foundational education and developed core academic skills.",
-      "Took part in sports and art activities.",
-      "Joined school events and fun activities.",
-      "Made new friends and worked on group projects.",
+      
     ],
   },
 ];
@@ -206,7 +205,7 @@ const Education = () => {
   return (
     <>
     <Helmet>
-        <title>My Education | Portfolio - Ujjwal</title>
+        <title>My Education | Portfolio - Sk Khorrum</title>
     </Helmet>
     <div style={mainContSplinebg}>
       {!isMobile ? (
